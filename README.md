@@ -26,8 +26,8 @@ This project has not been deployed yet, but you can see it in the screenshots be
 <a href="https://www.jonedens.com" target="_blank"><img src="https://www.jonedens.com/images/mindset/mindset_2.png" /></a>
 <a href="https://www.jonedens.com" target="_blank"><img src="https://www.jonedens.com/images/mindset/mindset_3.png" /></a>
 <a href="https://www.jonedens.com" target="_blank"><img src="https://www.jonedens.com/images/mindset/mindset_4.png" /></a>
-<a href="https://www.jonedens.com" target="_blank"><img src="https://www.jonedens.com/images/mindset/mindset_5.png" /></a>
 <a href="https://www.jonedens.com" target="_blank"><img src="https://www.jonedens.com/images/mindset/mindset_6.png" /></a>
+<a href="https://www.jonedens.com" target="_blank"><img src="https://www.jonedens.com/images/mindset/mindset_5.png" /></a>
 </p>
 
 <!-- # WebApp boilerplate with React JS and Flask API
